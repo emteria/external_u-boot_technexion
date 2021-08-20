@@ -42,6 +42,8 @@
 	"androidboot.primary_display=imx-drm "	\
 	"androidboot.wificountrycode=TW "	\
 	"androidboot.usb.debugging=1 "		\
+	"androidboot.selinux=permissive "	\
+	"enforcing=0 "				\
 	"cma=800M@0x400M-0xb80M "		\
 	"quiet\0"
 
